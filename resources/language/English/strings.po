@@ -1,0 +1,47 @@
+# Kodi Media Center language file
+# Addon Name: Simple Steam Launcher
+# Addon id: script.simple.steam.launcher
+# Addon Provider: arucard21
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: arucard21\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#32001"
+msgid "Launch Configuration"
+msgstr ""
+
+msgctxt "#32002"
+msgid "Steam client (or launch script)"
+msgstr ""
+
+msgctxt "#32003"
+msgid "Shut down Kodi when launching Steam client (Kodi will not restart automatically)"
+msgstr ""
+
+msgctxt "#32004"
+msgid "Steam launch failed"
+msgstr ""
+
+msgctxt "#32005"
+msgid "The Steam client location has not been provided. Please go to the add-on's settings and configure the Steam client location."
+msgstr ""
+
+msgctxt "#32006"
+msgid "The Steam client can not be found. Please go to the add-on's settings and make sure the specified Steam client location points to the correct file."
+msgstr ""
+
+msgctxt "#32007"
+msgid "The add-on does not have permission to launch the Steam client. Please make sure that the executable permission on the specified Steam client file is enabled for the Kodi user."
+msgstr ""
+
+msgctxt "#32008"
+msgid "Shutting down Kodi while the Steam client is being launched"
+msgstr ""
