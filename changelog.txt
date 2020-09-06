@@ -1,1 +1,2 @@
+2.0.0 Update to Python 3.0 and removed option to quit Kodi 
 1.0.0 Initial Release

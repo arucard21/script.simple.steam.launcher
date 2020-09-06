@@ -22,10 +22,6 @@ msgctxt "#32002"
 msgid "Steam client (or launch script)"
 msgstr ""
 
-msgctxt "#32003"
-msgid "Shut down Kodi when launching Steam client (Kodi will not restart automatically)"
-msgstr ""
-
 msgctxt "#32004"
 msgid "Steam launch failed"
 msgstr ""
@@ -40,8 +36,4 @@ msgstr ""
 
 msgctxt "#32007"
 msgid "The add-on does not have permission to launch the Steam client. Please make sure that the executable permission on the specified Steam client file is enabled for the Kodi user."
-msgstr ""
-
-msgctxt "#32008"
-msgid "Shutting down Kodi while the Steam client is being launched"
 msgstr ""

@@ -2,6 +2,5 @@
 <settings>
     <category label="32001">
         <setting label="32002" id="SteamLocation" type="executable" />
-        <setting label="32003" id="QuitKodi" type="bool" default="false" />
 	</category>
 </settings>

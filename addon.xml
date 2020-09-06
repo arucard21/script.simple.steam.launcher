@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.simple.steam.launcher" name="Simple Steam Launcher" version="1.0.0" provider-name="arucard">
+<addon id="script.simple.steam.launcher" name="Simple Steam Launcher" version="2.0.0" provider-name="arucard">
 	<requires>
-		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
 	<extension point="xbmc.python.script" library="addon.py">
 		<provides>executable</provides>
